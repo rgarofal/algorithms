@@ -1,0 +1,23 @@
+End of program
+         22957361 function calls in 19.895 CPU seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   19.895   19.895 <string>:1(<module>)
+        1    4.092    4.092   19.895   19.895 permut_pscalar2.py:1(<module>)
+ 11473176    6.051    0.000   15.556    0.000 permut_pscalar2.py:7(dot_product)
+        1    0.000    0.000   19.895   19.895 {execfile}
+        1    0.000    0.000    0.000    0.000 {iter}
+     2000    0.000    0.000    0.000    0.000 {len}
+     4000    0.000    0.000    0.000    0.000 {method 'append' of 'list' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+     2000    0.001    0.000    0.001    0.000 {method 'split' of 'str' objects}
+     2000    0.001    0.000    0.001    0.000 {method 'strip' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 {method 'writelines' of 'file' objects}
+     1000    0.244    0.000    0.244    0.000 {min}
+        2    0.000    0.000    0.000    0.000 {open}
+        1    0.000    0.000    0.000    0.000 {range}
+ 11473176    9.505    0.000    9.505    0.000 {sum}
+
+
